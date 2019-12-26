@@ -1,5 +1,5 @@
-# jsDelivr CDN images
+# jsDelivr CDN statics
 
 ```
-https://cdn.jsdelivr.net/gh/eallion/images@master/blog/eallion.jpg
+https://cdn.jsdelivr.net/gh/eallion/statics@master/images/eallion.jpg
 ```
