@@ -2,7 +2,7 @@
 
 ### Usage:
 ```
-https://cdn.jsdeliver.net/gh/[user]/[repo]@branch/[something].[jpg/css/js]
+https://cdn.jsdeliver.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
 ```
 ### Demo:
 ```
