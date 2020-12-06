@@ -74,20 +74,4 @@ CDN：<https://cdn.jsdelivr.net/npm/hls.js>
 </script>
 ```
 
-<script src="https://cdn.jsdelivr.net/npm/hls.js"></script>
-<video id="video" preload muted loop autoplay style="height: 100%;width: 100%;object-fit: cover;">
-</video>
-<script>
-  var video = document.getElementById('video');
-  var videoSrc = 'https://cdn.jsdelivr.net/gh/eallion/static/video/douyin/douyin.m3u8';
-  if (Hls.isSupported()) {
-    var hls = new Hls();
-    hls.loadSource(videoSrc);
-    hls.attachMedia(video);
-    hls.on(Hls.Events.MANIFEST_PARSED, function() {
-      video.play();
-    });
-  }
-</script>
-
 - <https://blog.lete114.top/article/Jsdeliver-video.html>
