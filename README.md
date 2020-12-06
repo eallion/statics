@@ -6,7 +6,7 @@ https://cdn.jsdeliver.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
 ```
 ### Demo:
 ```
-https://cdn.jsdelivr.net/gh/eallion/statics@master/images/eallion.jpg
+https://cdn.jsdelivr.net/gh/eallion/static@images/images/eallion.jpg
 ```
 
 | 分支      | 用处                    | 链接                                             |
@@ -18,4 +18,4 @@ https://cdn.jsdelivr.net/gh/eallion/statics@master/images/eallion.jpg
 | gh-pages  | GitHub Pages            | https://github.com/eallion/static/tree/gh-pages  |
 | images    | 相片                    | https://github.com/eallion/static/tree/images    |
 | typora    | Typora 图床             | https://github.com/eallion/static/tree/typora    |
-| video     | 视频床                  | https://github.com/eallion/static/tree/video     |
+| Video     | 视频床                  | https://github.com/eallion/static/tree/Video     |
