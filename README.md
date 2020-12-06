@@ -62,7 +62,7 @@ CDN：<https://cdn.jsdelivr.net/npm/hls.js>
 </video>
 <script>
   var video = document.getElementById('video');
-  var videoSrc = 'https://cdn.jsdelivr.net/gh/eallion/static/video/douyin/douyin.m3u8';
+  var videoSrc = 'https://cdn.jsdelivr.net/gh/eallion/static@Video/douyin/douyin.m3u8';
   if (Hls.isSupported()) {
     var hls = new Hls();
     hls.loadSource(videoSrc);
