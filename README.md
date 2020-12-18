@@ -8,6 +8,11 @@ https://cdn.jsdeliver.net/gh/[user]/[repo]@[branch]/[something].[jpg/css/js]
 ```
 https://cdn.jsdelivr.net/gh/eallion/static@images/images/eallion.jpg
 ```
+### Assets:
+
+```
+https://cdn.jsdelivr.net/gh/eallion/static@blog@v1.0.0/assets/all.min.js
+```
 
 | 分支      | 用处                    | 链接                                             |
 | --------- | ----------------------- | ------------------------------------------------ |
