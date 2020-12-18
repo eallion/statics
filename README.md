@@ -11,7 +11,7 @@ https://cdn.jsdelivr.net/gh/eallion/static@images/images/eallion.jpg
 ### Assets:
 
 ```
-https://cdn.jsdelivr.net/gh/eallion/static@blog@v1.0.0/assets/all.min.js
+https://cdn.jsdelivr.net/gh/eallion/static@v1.0.0/assets/eallion.com/all.min.js
 ```
 
 | 分支      | 用处                    | 链接                                             |
